@@ -103,7 +103,3 @@ This project implements the Mixture-of-Agents architecture proposed in the follo
 ```
 
 For more information about the Mixture-of-Agents concept, please refer to the [original research paper](https://arxiv.org/abs/2406.04692) and the [Together AI blog post](https://www.together.ai/blog/together-moa).
-
-## Contact
-
-For questions or support, please open an issue on the GitHub repository or contact skapadia@groq.com directly.
